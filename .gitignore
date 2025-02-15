@@ -1,0 +1,5 @@
+# Ignore all files
+*
+
+# But not index.html (or any other file you want to keep)
+!index.html
